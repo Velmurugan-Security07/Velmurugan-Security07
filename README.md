@@ -48,7 +48,7 @@ Building hands-on skills in log analysis, SIEM, and incident triage — turning 
 
 ### 📫 Contact
 
-[GitHub](https://github.com/Velmurugan-Security07) · [LinkedIn](https://www.linkedin.com/in/velmurugan-anand) · [Email] (velmurugananand673@gmail.com)
+[GitHub](https://github.com/Velmurugan-Security07) · [LinkedIn](https://www.linkedin.com/in/velmurugan-anand) · [Email](velmurugananand673@gmail.com)
 
 ---
 <p align="center"><i>"Watching the logs so incidents don't watch you."</i></p>
