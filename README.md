@@ -1,4 +1,4 @@
-#<h1 align="center">Velmurugan A.</h1>
+<h1 align="center">Velmurugan A.</h1>
 <h3 align="center">Aspiring SOC Analyst | Blue Team & Detection Enthusiast</h3>
 
 <p align="center">
@@ -66,5 +66,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#
-
